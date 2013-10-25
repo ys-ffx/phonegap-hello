@@ -1,0 +1,4 @@
+phonegap-hello
+==============
+
+test phonegap
